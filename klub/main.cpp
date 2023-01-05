@@ -9,35 +9,7 @@ int main()
     createKlub(K);
     adrAnggota a;
     adrTim t;
-
-//    t = newTim("Tim_Yesika");
-//    tambahTim(K, t);
-//    t = newTim("Tim_Key");
-//    tambahTim(K, t);
-//    t = newTim("Biawac");
-//    tambahTim(K, t);
-//    t = newTim("SlenicNicNicNicNiccc");
-//    tambahTim(K, t);
-//    t = newTim("Roti_Awan");
-//    tambahTim(K, t);
-//
-//    tambahAnggotaTim(K, "Tim_Yesika", "Yeyes", "123123");
-//    tambahAnggotaTim(K, "Tim_Yesika", "Yesika", "321321");
-//    tambahAnggotaTim(K, "Tim_Yesika", "Eci", "654654");
-//    tambahAnggotaTim(K, "Tim_Key", "Kaisa", "987465");
-//    tambahAnggotaTim(K, "Tim_Key", "Zahra", "654987");
-//    tambahAnggotaTim(K, "Biawac", "ButterCup", "321987");
-//    tambahAnggotaTim(K, "Biawac", "XenS", "987123");
-//    tambahAnggotaTim(K, "Biawac", "Hadouken", "741852");
-//    tambahAnggotaTim(K, "Biawac", "sonyx99", "963852");
-//    tambahAnggotaTim(K, "Biawac", "BimaPL", "846153");
-//    tambahAnggotaTim(K, "SlenicNicNicNicNiccc", "Ecino1", "684351");
-//    tambahAnggotaTim(K, "SlenicNicNicNicNiccc", "Ecino2", "3516874");
-//    tambahAnggotaTim(K, "SlenicNicNicNicNiccc", "Ecino3", "957624");
-//    tambahAnggotaTim(K, "Roti_Awan", "Zeks", "741963");
-//    tambahAnggotaTim(K, "Roti_Awan", "doang", "963745");
-
-
+    
     int opsi;
     string inputString1;
     string inputString2;
